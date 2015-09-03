@@ -1,0 +1,5 @@
+C:\Users\blump\Documents\Visual Studio 2015\Projects\Tweet Tweet\MutexManager\bin\Debug\MutexManager.dll
+C:\Users\blump\Documents\Visual Studio 2015\Projects\Tweet Tweet\MutexManager\bin\Debug\MutexManager.pdb
+C:\Users\blump\Documents\Visual Studio 2015\Projects\Tweet Tweet\MutexManager\obj\Debug\MutexManager.csprojResolveAssemblyReference.cache
+C:\Users\blump\Documents\Visual Studio 2015\Projects\Tweet Tweet\MutexManager\obj\Debug\MutexManager.dll
+C:\Users\blump\Documents\Visual Studio 2015\Projects\Tweet Tweet\MutexManager\obj\Debug\MutexManager.pdb
